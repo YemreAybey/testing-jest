@@ -1,4 +1,4 @@
-# testing-jest
+# Testing-jest
 
 A simple testing of pure functions with jest
 
