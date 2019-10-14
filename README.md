@@ -8,7 +8,7 @@ A simple testing of pure functions with jest
 - Webpack
 - Jest
 
-#Prerequisites
+# Prerequisites
 
 - NPM
 - WEBPACK
